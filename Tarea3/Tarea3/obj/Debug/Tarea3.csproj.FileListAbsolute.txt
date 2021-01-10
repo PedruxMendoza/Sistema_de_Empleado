@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+c:\users\pedro\documents\visual studio 2013\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+c:\users\pedro\documents\visual studio 2013\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.pdb
